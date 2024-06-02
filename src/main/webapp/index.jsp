@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2 stype="colour: red">Deployed using Jenkins, Ansible!! -2</h2>
+<h2 stype="colour: red">Welcome to this page. This is a sample application deployed using Jenkins,docker to demonstrate CI/CD pipeline</h2>
 </body>
 </html>
